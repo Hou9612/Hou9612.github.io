@@ -1,6 +1,6 @@
 # Wenxuan Hou
 
-### Short Bio11112
+### Short Bio111123
 
 You can use the [editor on GitHub](https://github.com/Hou9612/Hou9612.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-2014.09~2018.06 B.S in 
+2014.09~2018.06 B.Eng in Automation, Northwestern Polytechnical University. 
 
-2018.09~2021.06 M.S
+2018.09~2021.06 M.Eng in Control Science and Engineering, Xi'an Jiaotong University
 
 ### Work Experience
 
