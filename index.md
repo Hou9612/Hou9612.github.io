@@ -2,7 +2,7 @@
 
 ## Short Bio
 
-Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in Jun. 2018. I will start my Ph.D program in the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), in Sept. 2022, advised by Prof. [Di Hu](https://dtaoo.github.io/).
+Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun). before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in Jun. 2018. I will start my Ph.D program in the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), in Sept. 2022, advised by Prof. [Di Hu](https://dtaoo.github.io/).
 
 ## Research interests
 
@@ -12,17 +12,17 @@ Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's de
 
 ## Education
 
-2014.09~2018.06  B.E in Automation,<br>*Northwestern Polytechnical University.* 
+- 2014.09~2018.06  B.E in Automation,<br>*Northwestern Polytechnical University.* 
 
-2018.09~2021.06  M.S in Control Science and Engineering,<br>*Xi'an Jiaotong University.*
+- 2018.09~2021.06  M.S in Control Science and Engineering,<br>*Xi'an Jiaotong University.*
 
-2022.09~  (will be) Ph.D in Artificial Intelligence,<br>*Renmin University of China.*
+- 2022.09~  (will be) Ph.D in Artificial Intelligence,<br>*Renmin University of China.*
 
 ## Work Experience
 
-2020.07~2020.09  Research intern, iFlytek AI Research. 
+- 2020.07~2020.09  Research intern, iFlytek AI Research. 
 
-2021.07~2022.03  R&D, IDG, Baidu.
+- 2021.07~2022.03  R&D, IDG, Baidu.
 
 ## Publications
 
