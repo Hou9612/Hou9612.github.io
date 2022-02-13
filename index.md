@@ -10,9 +10,9 @@ Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's de
 
 ## Education
 
-- 2014.09~2018.06 &#160;&#160;B.E in Automation,<br>*Northwestern Polytechnical University.* 
+- 2014.09~2018.06 &#160;&#160;B.E. in Automation,<br>*Northwestern Polytechnical University.* 
 
-- 2018.09~2021.06 &#160;&#160;M.S in Control Science and Engineering,<br>*Xi'an Jiaotong University.*
+- 2018.09~2021.06 &#160;&#160;M.S. in Control Science and Engineering,<br>*Xi'an Jiaotong University.*
 
 - 2022.09~ &#160;&#160; (will be) Ph.D in Artificial Intelligence,<br>*Renmin University of China.*
 
