@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
+2014.09~2018.06 B.S in 
+
+2018.09~2021.06 M.S
+
 ### Work Experience
 
 ### Publications
