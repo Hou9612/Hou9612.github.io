@@ -6,23 +6,23 @@ Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's de
 
 ## Research interests
 
-2018~2021 Neural architecture search and its application.
+2018~2021 &#160;&#160;Neural architecture search and its application.
 
-2022~ Multimodal learning, especially audiovisual video understanding.
+2022~ &#160;&#160;Multimodal learning, especially audiovisual video understanding.
 
 ## Education
 
-- 2014.09~2018.06  B.E in Automation,<br>*Northwestern Polytechnical University.* 
+- 2014.09~2018.06 &#160;&#160;B.E in Automation,<br>*Northwestern Polytechnical University.* 
 
-- 2018.09~2021.06  M.S in Control Science and Engineering,<br>*Xi'an Jiaotong University.*
+- 2018.09~2021.06 &#160;&#160;M.S in Control Science and Engineering,<br>*Xi'an Jiaotong University.*
 
-- 2022.09~  (will be) Ph.D in Artificial Intelligence,<br>*Renmin University of China.*
+- 2022.09~ &#160;&#160; (will be) Ph.D in Artificial Intelligence,<br>*Renmin University of China.*
 
 ## Work Experience
 
-- 2020.07~2020.09  Research intern, iFlytek AI Research. 
+- 2020.07~2020.09 &#160;&#160;Research intern, iFlytek AI Research. 
 
-- 2021.07~2022.03  R&D, IDG, Baidu.
+- 2021.07~2022.03 &#160;&#160;R&D, IDG, Baidu.
 
 ## Publications
 
