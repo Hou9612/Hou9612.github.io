@@ -1,6 +1,10 @@
 ## About me
 
-Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun). before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in Jun. 2018. I will start my Ph.D program in the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), in Sept. 2022, advised by Prof. [Di Hu](https://dtaoo.github.io/).
+Now I am a research assistant in the [GeWu-Lab](https://dtaoo.github.io/group.html),   [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Di Hu](https://dtaoo.github.io/). Besides, I  will also start my Ph.D program in the [GeWu-Lab](https://dtaoo.github.io/group.html), in  Sept. 2022. 
+
+I have received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), in June 2021. before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in Jun. 2018. I also have two industrial work experiences, in  iFlytek and Baidu, respectively.
+
+
 
 ## Research interests
 
@@ -19,8 +23,8 @@ Now I am an algorithm engineer in Baidu. In Jun. 2021, I received my master's de
 ## Work Experience
 
 - 2020.07~2020.09 &#160;&#160;Research intern, iFlytek AI Research. 
-
-- 2021.07~2022.03 &#160;&#160;R&D,  Baidu.
+- 2021.07~2022.03 &#160;&#160;R&D,  Intelligent Driving Group, Baidu.
+- 2022.04~2022.08 &#160;&#160;Research assistant,  Renmin University of China.
 
 ## Publications
 
