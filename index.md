@@ -28,9 +28,9 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 - 2023.08~2024.01 &#160;&#160;Research intern,  Wechat advertisement department, Corporate Development Group, Tencent.
 
 ## Preprint
-- **Wenxuan Hou†**, Guangyao Li†, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/)
+- **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/)
 
-## Publication†
+## Publication
 - **Wenxuan Hou**, Ruoxuan Feng, Yixin Xu, Yapeng Tian, and Di Hu. Towards Better Egocentric Action Understanding
 in a Multi-Input Multi-Output View. ICCV 2023 AV4D Workshop. [link](https://av4d.org/papers/iccv23/p13.pdf)
 - Guangyao Li, **Wenxuan Hou**, and Di Hu. Progressive Spatio-temporal Perception for Audio-Visual Question Answering. ACM MM 2023. [link](https://browse.arxiv.org/pdf/2308.05421.pdf)
