@@ -1,8 +1,8 @@
 ## About me
 
-Now I am a first-year Ph.D student in the [GeWu-Lab](https://gewu-lab.github.io/),   [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Di Hu](https://dtaoo.github.io/). Now my main research interests are multi-modal scene understanding. 
+Now I am a second-year Ph.D student in the [GeWu-Lab](https://gewu-lab.github.io/),   [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Di Hu](https://dtaoo.github.io/). Now I'm interested in effective training, fine-tuning and inference methods of multi-modal learning, and their applications on real-world sence understanding. 
 
-I have received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), in June 2021. Before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in Jun. 2018. I also have two industrial work experiences, in  [iFlytek](https://www.iflytek.com/index.html) and [Baidu](https://www.baidu.com/), respectively.
+I have received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), in June 2021. Before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in Jun. 2018. I also have two industrial work experiences, in  [iFlytek](https://www.iflytek.com/index.html), [Baidu](https://www.baidu.com/), and [Tencent](https://www.tencent.com/), respectively.
 
 
 
@@ -10,7 +10,7 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 
 2018~2021 &#160;&#160;Neural architecture search and its application.
 
-2022~ &#160;&#160;Multimodal learning, especially audiovisual learning.
+2022~ &#160;&#160;Multimodal learning and sence understanding.
 
 ## Education
 
@@ -25,9 +25,15 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 - 2020.07~2020.09 &#160;&#160;Research intern, iFlytek AI Research. 
 - 2021.07~2022.03 &#160;&#160;R&D,  Intelligent Driving Group, Baidu.
 - 2022.04~2022.08 &#160;&#160;Research assistant,  Renmin University of China.
+- 2023.08~2024.01 &#160;&#160;Research intern,  Wechat advertisement department, Corporate Development Group, Tencent.
 
-## Publications
+## Preprint
+- **Wenxuan Hou†**, Guangyao Li†, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/)
 
+## Publication†
+- **Wenxuan Hou**, Ruoxuan Feng, Yixin Xu, Yapeng Tian, and Di Hu. Towards Better Egocentric Action Understanding
+in a Multi-Input Multi-Output View. ICCV 2023 AV4D Workshop. [link](https://av4d.org/papers/iccv23/p13.pdf)
+- Guangyao Li, **Wenxuan Hou**, and Di Hu. Progressive Spatio-temporal Perception for Audio-Visual Question Answering. ACM MM 2023. [link](https://browse.arxiv.org/pdf/2308.05421.pdf)
 - **Wenxuan Hou**, Longjun Liu, Haonan Zhang, Hongbin Sun, and Nanning Zheng. DFSNet: Dividing-Fuse Deep Neural Networks with Searching Strategy for Distributed DNN Architecture. Neurocomputing, 2021. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016076)
 - Haonan Zhang, Longjun Liu, Hengyi Zhou, **Wenxuan Hou**, Hongbin Sun, and and Nanning Zheng. AKECP: Adaptive Knowledge Extraction from Feature Maps for Fast and Efficient Channel Pruning. ACM MM 2021. [link](https://dl.acm.org/doi/abs/10.1145/3474085.3475228)
 - Anguo Zhu, Longjun Liu, **Wenxuan Hou**, Hongbin Sun, and Nanning Zheng. HSC: Leveraging horizontal shortcut connections for improving accuracy and computational efficiency of lightweight CNN. Neurocomputing, 2021. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009899)
