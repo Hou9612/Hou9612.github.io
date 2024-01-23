@@ -1,6 +1,6 @@
 ## About me
 
-Now I am a second-year Ph.D student in the [GeWu-Lab](https://gewu-lab.github.io/),   [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Di Hu](https://dtaoo.github.io/). Now I'm interested in effective training, fine-tuning and inference methods of multi-modal learning, and their applications on real-world sence understanding. 
+Now I am a second-year Ph.D student in the [GeWu-Lab](https://gewu-lab.github.io/),   [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Di Hu](https://dtaoo.github.io/). Now my main research focuses on multimodal learning towards real-world scene understanding, aiming to guide the machine to perceive and understand natural scenes like human beings.
 
 I have received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), in June 2021. Before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in June 2018. I also have several industrial work experiences, in  [iFlytek](https://www.iflytek.com/index.html), [Baidu](https://www.baidu.com/), and [Tencent](https://www.tencent.com/), respectively.
 
@@ -25,7 +25,7 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 - 2020.07~2020.09 &#160;&#160;Research intern, iFlytek AI Research. 
 - 2021.07~2022.03 &#160;&#160;R&D,  Intelligent Driving Group, Baidu.
 - 2022.04~2022.08 &#160;&#160;Research assistant,  Renmin University of China.
-- 2023.08~2024.01 &#160;&#160;Research intern,  Wechat advertisement department, Corporate Development Group, Tencent.
+- 2023.08~now &#160;&#160;Research intern,  Wechat advertisement department, Corporate Development Group, Tencent.
 
 ## Preprint
 - **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/)
