@@ -42,6 +42,7 @@ in a Multi-Input Multi-Output View. ICCV 2023 AV4D Workshop. [link](https://av4d
 -  Jinxia Gao, Longjun Liu, Peng Gao, Yihuan Zheng, **Wenxuan Hou**, and Junhui Wang. Intelligent occlusion stabilization splint with stress-sensor system for bruxism diagnosis and treatment. Sensors, 2020. [link](https://www.mdpi.com/1424-8220/20/1/89)
 
 
-
-
+## Academic Services
+**Conference Reviewer**: AAAI 2024, IJCAI 2025, AAAI 2025.
+**Journal Reviewer**: TMM, TASLP.
 
