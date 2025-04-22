@@ -31,8 +31,7 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 <!-- - **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/) -->
 
 ## Publication
-- **Wenxuan Hou**, Kaibing Yang, and Di Hu. Learning to Predict Advertisement Expansion Moments in Short-Form Video Platforms. ICMR 2025 Full paper. [link comming soon]
-- Guangyao Li, **Wenxuan Hou**, and Di Hu. Progressive Spatio-temporal Perception for Audio-Visual Question Answering. ACM MM 2023. 
+- **Wenxuan Hou**, Kaibing Yang, and Di Hu. Learning to Predict Advertisement Expansion Moments in Short-Form Video Platforms. ICMR 2025 Full paper. [link comming soon] 
 - **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. ACM TOMM 2024. [project page](https://gewu-lab.github.io/LFAV/), [link](https://dl.acm.org/doi/pdf/10.1145/3672079)
 - **Wenxuan Hou**, Ruoxuan Feng, Yixin Xu, Yapeng Tian, and Di Hu. Towards Better Egocentric Action Understanding
 in a Multi-Input Multi-Output View. ICCV 2023 AV4D Workshop. [link](https://av4d.org/papers/iccv23/p13.pdf)
