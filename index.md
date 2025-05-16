@@ -44,6 +44,6 @@ in a Multi-Input Multi-Output View. ICCV 2023 AV4D Workshop. [link](https://av4d
 
 
 ## Academic Services
-- **Conference Reviewer**: AAAI 2024, IJCAI 2025, AAAI 2025.
+- **Conference Reviewer**: AAAI 2024, IJCAI 2024, AAAI 2025.
 - **Journal Reviewer**: IJCV, TMM, TASLP.
 
