@@ -26,7 +26,7 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 - 2021.07~2022.03 &#160;&#160;R&D,  Intelligent Driving Group, Baidu.
 - 2022.04~2022.08 &#160;&#160;Research assistant,  Renmin University of China.
 - 2023.08~2024.08 &#160;&#160;Research intern,  Wechat advertisement department, Corporate Development Group, Tencent.
-- 2024.06~ &#160;&#160;Research intern, Hithink Research. 
+- 2025.06~ &#160;&#160;Research intern, Hithink Research. 
 
 <!-- ## Preprint -->
 <!-- - **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/) -->
