@@ -2,7 +2,7 @@
 
 Now I am a third-year Ph.D student in the [GeWu-Lab](https://gewu-lab.github.io/),   [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Di Hu](https://dtaoo.github.io/). Now my main research focuses on multimodal learning towards real-world scene understanding, aiming to guide the machine to perceive and understand natural scenes like human beings.
 
-I have received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), in June 2021. Before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in June 2018. I also have several industrial work experiences, in  [iFlytek](https://www.iflytek.com/index.html), [Baidu](https://www.baidu.com/), and [Tencent](https://www.tencent.com/), respectively.
+I have received my master's dergee in the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by Prof. [Longjun Liu](http://gr.xjtu.edu.cn/web/liulongjun), in June 2021. Before that, I got my bachelor's degree in the [Honors College](https://honors.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in June 2018. I also have several industrial work experiences, in  [iFlytek](https://www.iflytek.com/index.html), [Baidu](https://www.baidu.com/), [Tencent](https://www.tencent.com/), and [Hithink](https://www.10jqka.com.cn/), respectively.
 
 
 
@@ -26,12 +26,13 @@ I have received my master's dergee in the [Institute of Artificial Intelligence 
 - 2021.07~2022.03 &#160;&#160;R&D,  Intelligent Driving Group, Baidu.
 - 2022.04~2022.08 &#160;&#160;Research assistant,  Renmin University of China.
 - 2023.08~2024.08 &#160;&#160;Research intern,  Wechat advertisement department, Corporate Development Group, Tencent.
+- 2024.06~ &#160;&#160;Research intern, Hithink Research. 
 
 <!-- ## Preprint -->
 <!-- - **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. [project page](https://gewu-lab.github.io/LFAV/) -->
 
 ## Publication
-- **Wenxuan Hou**, Kaibing Yang, and Di Hu. Learning to Predict Advertisement Expansion Moments in Short-Form Video Platforms. ICMR 2025 Full paper. [link comming soon] 
+- **Wenxuan Hou**, Kaibing Yang, and Di Hu. Learning to Predict Advertisement Expansion Moments in Short-Form Video Platforms. ICMR 2025 Full Research Paper. [link](https://dl.acm.org/doi/10.1145/3731715.3733372), [code and dataset](https://github.com/GeWu-Lab/WCAE)
 - **Wenxuan Hou<sup>†</sup>**, Guangyao Li<sup>†</sup>, Yapeng Tian, and Di Hu. Towards Long Form Audio-visual Video Understanding. ACM TOMM 2024. [project page](https://gewu-lab.github.io/LFAV/), [link](https://dl.acm.org/doi/pdf/10.1145/3672079)
 - **Wenxuan Hou**, Ruoxuan Feng, Yixin Xu, Yapeng Tian, and Di Hu. Towards Better Egocentric Action Understanding
 in a Multi-Input Multi-Output View. ICCV 2023 AV4D Workshop. [link](https://av4d.org/papers/iccv23/p13.pdf)
